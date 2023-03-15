@@ -32,33 +32,6 @@
 <br>
 
 -----
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-```python
-class EmmanuelChavarriaSolis():
-    
-  def __init__(self):
-    self.name = "Emmanuel Chavarria Solis";
-    self.username = "leuname592";
-    self.location = "San Jose, Costa Rica";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = EmmanuelChavarriaSolis()
-```
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
------
 
 <br>
 
