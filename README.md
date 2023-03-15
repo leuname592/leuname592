@@ -63,7 +63,7 @@ if __name__ == '__main__':
 </div>
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square);
 <br>
 <br>
 
