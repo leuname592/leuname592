@@ -2,9 +2,8 @@
 <h1 align="center"><b>Hi , I'm Emmanuel Chavarria Solis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Software Developer,;Electrical Engineer,;Active+Learner/Researcher,; Fast Learner"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
 
 <br>
 
@@ -19,7 +18,7 @@
 
 - Electrical Engineer (Universidad de Costa Rica)
 - Currently learning about ML and AI
-- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/leuname592/)
 
 <br><br>
 
@@ -30,7 +29,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
