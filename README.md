@@ -1,20 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Emmanuel Chavarria Solis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-```python
-class EmmanuelChavarriaSolis():
-    
-  def __init__(self):
-    self.name = "Emmanuel Chavarria Solis";
-    self.username = "leuname592";
-    self.location = "San Jose, Costa Rica";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = EmmanuelChavarriaSolis()
-```
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -46,6 +32,33 @@ if __name__ == '__main__':
 <br>
 
 -----
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+```python
+class EmmanuelChavarriaSolis():
+    
+  def __init__(self):
+    self.name = "Emmanuel Chavarria Solis";
+    self.username = "leuname592";
+    self.location = "San Jose, Costa Rica";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = EmmanuelChavarriaSolis()
+```
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+-----
 
 <br>
 
@@ -61,6 +74,9 @@ if __name__ == '__main__':
 </a>
 </div>
 <br>
+<br>
+<br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square)&nbsp;
 -----
 
