@@ -41,7 +41,7 @@ if __name__ == '__main__':
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square)&nbsp;
 
 <br>
 <br>
@@ -63,7 +63,6 @@ if __name__ == '__main__':
 </div>
 
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square);
 <br>
 <br>
 
