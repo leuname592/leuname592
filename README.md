@@ -54,8 +54,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=leuname592&style=flat-square)&nbsp;
 -----
 
-<br>
-<br>
+
 </ul>
 </div>
 
