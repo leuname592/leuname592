@@ -25,7 +25,7 @@
 ![C++](https://img.shields.io/badge/-C++-7d93b0?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-f29111?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-f0e6e1?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-6d7b8d?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-8bd9a2?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6d7b8d?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
