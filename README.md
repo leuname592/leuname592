@@ -21,7 +21,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-6d7b8df?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C](https://img.shields.io/badge/-C-cad8eb?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-6d7b8d?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-6d7b8d?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-6d7b8d?style=flat&logo=git)&nbsp;
