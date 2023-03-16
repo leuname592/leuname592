@@ -20,14 +20,14 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-43becc?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-07a3b5?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-8ea1a3?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-e1eced?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-d1edf0?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-ade7ed?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-79c2c9?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-5d9499?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-6e8c8f?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-586c6e?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-588387?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
