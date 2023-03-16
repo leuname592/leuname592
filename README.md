@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-f0e6e1?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-8bd9a2?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6d7b8d?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-c769fa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
