@@ -14,7 +14,7 @@
 - I’m currently open for a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/leuname592/).
 
 <br>
-
+<br>
 ---
 
 <br>
