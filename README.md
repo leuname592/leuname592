@@ -20,8 +20,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-c94949?style=flat&logo=Pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-03999e?style=flat&logo=Matplotlib)&nbsp;
 ![C](https://img.shields.io/badge/-C-eb5e4b?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-7d93b0?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![QT](https://img.shields.io/badge/-QT-ebebf5?style=flat&logo=QT)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-40454a?style=flat&logo=Bash)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-f0e6e1?style=flat&logo=linux&logoColor=000000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-f29111?style=flat&logo=mysql)&nbsp;
