@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-c94949?style=flat&logo=Pandas)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-03999e?style=flat&logo=Matplotlib)&nbsp;
+![Kivy](https://img.shields.io/badge/-Kivy-d2d7d9?style=flat&logo=Kivy)&nbsp;
 ![C](https://img.shields.io/badge/-C-eb5e4b?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-7d93b0?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![QT](https://img.shields.io/badge/-QT-ebebf5?style=flat&logo=QT)&nbsp;
