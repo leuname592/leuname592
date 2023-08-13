@@ -1,16 +1,10 @@
-
-<h1 align="center"><b>Hello , I'm Emmanuel Chavarria Solis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- Electrical Engineer (Universidad de Costa Rica).
+- Electrical/Software Engineer (Universidad de Costa Rica).
 - English professional proficiency.
-- Mainly working on Algorithms, Data Structures, Math, Probability and statistics.
-- I’m currently open for a new job opportunity, this is [my linkedin](https://www.linkedin.com/in/leuname592/).
+- Mainly interested on Algorithms, Data Structures, Math, Probability and statistics.
 <br />
 
 ---
